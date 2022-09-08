@@ -2,6 +2,7 @@
 
 #include <a_samp>
 #include <a_mysql> // MySQL R39-4
+#include <nex-ac>
 
 #define MSQL_HOST       ""
 #define MYSQL_DB        ""
